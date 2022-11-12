@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ChenWeilinx
-- 👀 I’m interested in create bugs.
-- 🌱 我只是一只卑微的蜗牛
+- nothing
 
 <!---
 ChenWeilinx/ChenWeilinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
