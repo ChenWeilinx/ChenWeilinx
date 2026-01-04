@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔬 Research Project
 **CustomTex**  
-High-fidelity indoor scene texturing via multi-reference customization  
+CustomTex: High-fidelity indoor scene texturing via multi-reference customization  
 
 🌐 Project page: https://chenweilinx.github.io/CustomTex/
 
